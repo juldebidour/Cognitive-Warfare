@@ -1,0 +1,14 @@
+{
+  "name": "tweebot-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Scott Spence <spences10apps@gmail.com> (https://blog.scottspence.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.9"
+  }
+}
